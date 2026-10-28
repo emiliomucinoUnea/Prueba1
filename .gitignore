@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/.vs
+/.vs
+/Ejercicio1/.vs/Ejercicio1.slnx
+/Ejercicio1/obj
